@@ -10,7 +10,7 @@ WorldInfo {
     "Competition objective: "
     "learn how to program a robot."
   ]
-  title "Container Robot Programming"
+  title "Robot Programming Competition"
   window "robot_programming_competition"
   basicTimeStep 20
   contactProperties [
