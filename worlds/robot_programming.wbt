@@ -7,8 +7,7 @@ EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2022b/project
 
 WorldInfo {
   info [
-    "Competition objective: "
-    "learn how to program a robot."
+    "Competition objective: learn how to program a robot."
   ]
   title "Robot Programming Competition"
   window "robot_programming_competition"
