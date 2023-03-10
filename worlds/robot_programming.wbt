@@ -38,7 +38,7 @@ DEF COMPETITION_ROBOT Thymio2 {
   name "participant"
   controller "participant"
   controllerArgs []
-  window "<none>"
+  window "robot_programming_competition"
   synchronization FALSE
 }
 DEF COMPETITION_SUPERVISOR Robot {
