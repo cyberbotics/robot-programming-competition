@@ -1,22 +1,10 @@
 <span id="title">
 
-# Competition Organizer Template
+# Robot Programming Competition
 
 </span>
 
 [![webots.cloud - Competition](https://img.shields.io/badge/webots.cloud-Competition-007ACC)][1]
-
-<!-- TODO: add examples when available
-## Competition Examples
-
-- <https://github.com/cyberbotics/robot-programming-competition-disabled>
-- <https://github.com/cyberbotics/inverted-pendulum-competition-disabled>
--->
-## Organizer Setup
-
-To organize your own competition, follow the instructions in the [ORGANIZER.md](ORGANIZER.md) file.
-
----
 
 ## Description
 
@@ -32,10 +20,10 @@ Write here a short description of your competition.
 
 <span id="information">
 
-- Difficulty: Middle School, High School, Bachelor, Master or PhD
-- Robot: robot name
-- Language: programming language of the controller template
-- Commitment: amount of time needed to participate in the competition
+- Difficulty: Middle School
+- Robot: Thymio II
+- Language: Python
+- Commitment: 10 minutes
 
 </span>
 
@@ -63,7 +51,7 @@ Otherwise, you must grant access to your repository to the competition organizer
 
 - [Click here](../../settings/access) to go to the "Collaborators" setting page. You might need to confirm the access by re-entering your GitHub password.
 - You should see a "Manage access" box where you will see the current collaborators of the repo.
-Click on the "Add people" and search for "[ORGANIZER_USERNAME](https://github.com/ORGANIZER_USERNAME)".
+Click on the "Add people" and search for "[omichel](https://github.com/omichel)".
 When you found the organizer, add him to the repository.
 
 ### 3. Modify your Robot Controller
